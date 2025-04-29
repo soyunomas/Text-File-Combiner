@@ -7,7 +7,7 @@
 
 Una herramienta sencilla y eficiente para combinar el contenido de múltiples archivos de texto (incluyendo archivos dentro de carpetas y subcarpetas) en un único archivo `.txt`, directamente en tu navegador.
 
-▶️ **Prueba la herramienta aquí:** [https://Soyunomas.github.io/Text-File-Combiner/](https://Soyunomas.github.io/Text-File-Combiner/unirtexto.html) 
+▶️ **Prueba la herramienta aquí:** [https://Soyunomas.github.io/Text-File-Combiner/unirtexto.html](https://soyunomas.github.io/Text-File-Combiner/unirtexto.html) 
 
 ### Vista Previa
 
