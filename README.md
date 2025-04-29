@@ -48,13 +48,9 @@ Esta utilidad resuelve la necesidad común de consolidar texto desde diversas fu
 *   CSS3 (con Bootstrap 5)
 *   JavaScript Nativo (Vanilla JS - ES6+)
 
-## Contribuciones 🤝
-
-¡Las contribuciones son bienvenidas! Si tienes sugerencias, mejoras o encuentras algún error, por favor abre un 'issue' o envía un 'pull request'.
-
 ## Licencia 📄
 
-Este proyecto es de código abierto y se distribuye bajo la [Licencia MIT](LICENSE). *(Asegúrate de añadir un archivo `LICENSE` con el texto de la licencia MIT en tu repositorio).*
+Este proyecto es de código abierto y se distribuye bajo la [Licencia MIT](LICENSE).
 
 ---
 *Creado por Soyunomas*
