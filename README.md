@@ -11,7 +11,6 @@ Una herramienta sencilla y eficiente para combinar el contenido de múltiples ar
 
 ### Vista Previa
 
-*(Aquí puedes añadir tu captura de pantalla cuando la tengas)*
 ![Captura de pantalla de Text-File-Combiner](screenshot.png)
 
 ## ¿Por Qué Usar Esta Herramienta? 🤔
